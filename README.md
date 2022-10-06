@@ -28,6 +28,15 @@ VERSÃO:1.3
 
 conhecimento não é crime!!!
 
+# LIGUAGEM DE PROGRAMAÇÃO
+   ![OIP ](https://user-images.githubusercontent.com/112259891/194378304-1db40b74-2631-486d-8de2-64a87a75cc43.png) PHP
+
+
+   ![bash ](https://user-images.githubusercontent.com/112259891/194378886-94d84ded-f3b6-42f0-9901-9bfd3c56dea8.png) BASH
+
+   ![ll ](https://user-images.githubusercontent.com/112259891/194379252-f6fab910-d0f6-4005-b3de-bfe56ec49a80.png) PYTHON
+
+
 # ♡ INSTALAÇÃO TERMUX ♡
 pkg update && pkg upgrade 
 
