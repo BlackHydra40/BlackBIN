@@ -24,11 +24,11 @@ SE ALGUEM TIVER VENDENDO ESSE SCRIPT NÃO COMPRE PQ ESSA FERRAMENTA É GRATÍS
 
 ATÉ A PROXIMA <3
 
-VERSÃO:1.1
+VERSÃO:1.3
 
 conhecimento não é crime!!!
 
-# ♡ INSTALAÇÃO ♡
+# ♡ INSTALAÇÃO TERMUX ♡
 pkg update && pkg upgrade 
 
 pkg install git 
@@ -54,6 +54,18 @@ bash blackv8.sh
 
 # 🔴COMANDO PARA QUANDO SAIR ATUALIZAÇÃO🔴
 bash up.sh 
+
+# FUTURAS ATUALIZACÕES
+
+estou pensando em adicionar um verificador de cheker (para ver se a cc é ativa)
+
+futuramente um novo layout, deixar a vizualização melhor 
+
+e troca o site onde as ccs são geradas
+
+# DOAÇÃO
+
+meu pix: maycongg486@gmail.com
 
 # ATE MAIS 🕵
 
