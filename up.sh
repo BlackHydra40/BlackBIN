@@ -10,6 +10,6 @@ echo
 git clone https://github.com/BlackHydra40/BlackBIN
 cd BlackBIN
 clear
-python3 blackv8.py
+bash blackv8.sh
 
 sleep 3
