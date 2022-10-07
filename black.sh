@@ -1,5 +1,5 @@
 #!/system/xbin/bash
-
+#opa tudo bem com vc mano blz tá bem melhor que eu 
 clear
 cd module
 cat baner.txt | lolcat
