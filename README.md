@@ -48,7 +48,7 @@ cd BlackBIN
 
 bash install.sh 
 
-bash blackv8.sh 
+bash black.sh 
 
 # 💻 INSTALAÇÃO NO KALI, UBUNTU E OUTROS 💻
 sudo apt-get update && apt-get upgrade 
@@ -59,7 +59,7 @@ cd BlackBIN
 
 bash install.sh 
 
-bash blackv8.sh 
+bash black.sh 
 
 # 🔴COMANDO PARA QUANDO SAIR ATUALIZAÇÃO🔴
 bash up.sh 
