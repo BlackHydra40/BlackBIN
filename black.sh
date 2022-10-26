@@ -1,9 +1,10 @@
 #!/system/xbin/bash
-#opa tudo bem com vc mano blz tá bem melhor que eu 
+
 clear
 cd module
 cat baner.txt | lolcat
 python3 acceso.py
+python3 black2.py
 blue='\033[34;1m'
 green='\033[32;1m'  
 purple='\033[35;1m'
@@ -182,5 +183,38 @@ sleep 2
 python3 salida.py
 sleep 1
 exit
+fi
+
+if [ $bro = 25 ] || [ $bro = 25 ]
+then
+clear
+figlet "ENTRANDO" | lolcat
+cd Black_CC
+python3 black.py
+fi
+
+if [ $bro = 26 ] || [ $bro = 26 ]
+then
+clear
+figlet "ENTRANDO" | lolcat
+python3 bin.py
+fi
+
+if [ $bro = 27 ] || [ $bro = 27 ]
+then
+clear
+figlet "ENTRANDO" | lolcat
+cd ip
+pip3 install -r requirements.txt --user
+python3 nome.py
+python3 ipgeolocation.py -h
+fi
+
+if [ $bro = 28 ] || [ $bro = 28 ]
+then
+clear
+figlet "ENTRANDO" | lolcat
+cd link
+bash blackphisher.sh
 fi
 
