@@ -16,7 +16,7 @@ close = '\033[0m'
 username = 'BLACKHYDRANGKS'      
 password = '1012'
 
-os.system ("toilet -f big 'NICK'-F gay | lolcat")
+os.system ("toilet -f big 'NICK' -F gay | lolcat")
 print(amarillo)
 nick = str(input(' COLOQUE SEU NICK  : '))
 
