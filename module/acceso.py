@@ -12,10 +12,11 @@ celeste = '\033[36;1m'
 plomo = '\033[30;1m'
 close = '\033[0m'
 
-os.system ("toilet -f big ' ' -F gay | lolcat")
+
 username = 'BLACKHYDRANGKS'      
 password = '1012'
 
+os.system ("toilet -f big 'NICK'-F gay | lolcat")
 print(amarillo)
 nick = str(input(' COLOQUE SEU NICK  : '))
 
@@ -32,11 +33,11 @@ def main():
 			os.system("clear")
 			time.sleep(2)
             #printf "\e[1;34m Abrindo canal no Telegram \n\e[m" && xdg-open https://t.me/MS40_canal &> /dev/null && sleep 10
-			os.system ("toilet -f big 'BlackHydraCCv8' -F gay | lolcat")
+			os.system ("toilet -f big 'BlackBIN' -F gay | lolcat")
 			print("\n\033[32;1m OLÁ \033[32;1m ★",nick,"★\033[32;1m BEM VINDO AO BLACKCCV8 \n  FERRAMENTO VOLTADO A CC, GERADORES E BINS\n")
 			time.sleep(2)
 			print(verde,'+————————————————————————————————————————————————————————————+')
-			print(rojo)
+			print(verde)
 			print('  [ 01 ] CARTÕES DO ESTADOS UNIDOS')
 			print('  [ 02 ] CARTÕES DA AUSTALIA')
 			print('  [ 03 ] CARTÕES DA AUSTRIA')
