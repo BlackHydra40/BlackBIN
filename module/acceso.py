@@ -16,8 +16,9 @@ close = '\033[0m'
 username = 'BLACKHYDRANGKS'      
 password = '1012'
 
-os.system ("toilet -f big 'NICK' -F gay | lolcat")
+
 print(amarillo)
+os.system ("toilet -f big 'NICK' -F gay | lolcat")
 nick = str(input(' COLOQUE SEU NICK  : '))
 
 def restart():
@@ -34,7 +35,7 @@ def main():
 			time.sleep(2)
             #printf "\e[1;34m Abrindo canal no Telegram \n\e[m" && xdg-open https://t.me/MS40_canal &> /dev/null && sleep 10
 			os.system ("toilet -f big 'BlackBIN' -F gay | lolcat")
-			print("\n\033[32;1m OLÁ \033[32;1m ★",nick,"★\033[32;1m BEM VINDO AO BLACKCCV8 \n  FERRAMENTO VOLTADO A CC, GERADORES E BINS\n")
+			print("\n\033[32;1m OLÁ \033[32;1m ★",nick,"★\033[32;1m BEM VINDO AO BLACKBIN \n  FERRAMENTO VOLTADO A CC, GERADORES E BINS\n")
 			time.sleep(2)
 			print(verde,'+————————————————————————————————————————————————————————————+')
 			print(verde)
